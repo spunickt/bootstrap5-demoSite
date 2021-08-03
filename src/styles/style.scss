@@ -1,0 +1,16 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+:root {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#navbarNav > ul > li:nth-child(3) > button {
+    background-color: $red-500;
+    border: none;
+
+}
+
+#navbarNav > ul > li:nth-child(3) > button > a {
+    color: white;
+}
