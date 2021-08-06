@@ -10768,4 +10768,14 @@ textarea.form-control-lg {
   font-family: "Amatic SC", cursive;
 }
 
+.iconify {
+  color: #fff;
+  font-size: 24px;
+}
+
+.iconify:hover {
+  cursor: pointer;
+  color: coral;
+}
+
 /*# sourceMappingURL=style.css.map */
