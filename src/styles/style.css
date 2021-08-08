@@ -10751,7 +10751,7 @@ textarea.form-control-lg {
   font-size: calc(1rem + 0.2vw);
 }
 
-#navbarNav > ul > li:nth-child(3) > button {
+#navbarNav > ul > li:nth-child(5) > button {
   background-color: #dc3545;
   border: none;
 }
@@ -10760,7 +10760,7 @@ textarea.form-control-lg {
   display: none;
 }
 
-#navbarNav > ul > li:nth-child(3) > button > a {
+#navbarNav > ul > li:nth-child(5) > button > a {
   color: white;
 }
 
@@ -10775,7 +10775,7 @@ textarea.form-control-lg {
 
 .iconify:hover {
   cursor: pointer;
-  color: coral;
+  color: #e35d6a;
 }
 
 /*# sourceMappingURL=style.css.map */
